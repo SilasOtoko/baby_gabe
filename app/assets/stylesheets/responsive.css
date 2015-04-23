@@ -29,6 +29,10 @@ TWO COLUMN LAYOUT
     clear: left;
   }
   
+  #gallery li:nth-child(7){
+    clear: left;
+  }
+  
   
   /*******************
   PAGE: ABOUT

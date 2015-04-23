@@ -20,9 +20,6 @@ a{
   max-width: 100%;
 }
 
-h3{
-  margin: 0 0 1em 0;
-}
 
 
 
@@ -51,8 +48,7 @@ h1{
   line-height: 0.8em;
 }
 
-h2{
-  font-size: 0.75em;
+h2 h2{
   margin: -5px 0 0; /* brings h1 and h2 elements tighter together */
   font-weight: normal;
 }
@@ -70,9 +66,8 @@ nav{
 }
 
 nav h2{
-  padding: 10px;
   font-weight: 800;
-  font-size: 1em;
+  font-size: 0.75em;
 }
 
 
@@ -115,7 +110,7 @@ PAGE PORTFOLIO
   color: #bdc3c7;
 }
 
-#gallery li a p{
+#gallery p{
   margin: 0;
   padding: 5%;
   font-size: 0.75em;
